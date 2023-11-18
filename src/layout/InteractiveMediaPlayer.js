@@ -1,7 +1,13 @@
 import React from 'react';
+// components
+import MediaPlayer from '../components/mediaPlayer/MediaPlayer';
 
 function InteractiveMediaPlayer() {
-  return <div>InteractiveMediaPlayer</div>;
+  return (
+    <>
+      <MediaPlayer />
+    </>
+  );
 }
 
 export default InteractiveMediaPlayer;

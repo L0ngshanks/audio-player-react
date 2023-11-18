@@ -6,6 +6,13 @@ import reportWebVitals from './reportWebVitals';
 // redux
 import { store } from '../src/store/store';
 import { Provider } from 'react-redux';
+// bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css';
+// material-ui
+import '@fontsource/roboto/300.css';
+import '@fontsource/roboto/400.css';
+import '@fontsource/roboto/500.css';
+import '@fontsource/roboto/700.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
