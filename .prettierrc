@@ -4,5 +4,6 @@
   "quoteProps": "as-needed",
   "insertPragma": false,
   "endOfLine": "lf",
-  "htmlWhitespaceSensitivity": "css"
+  "htmlWhitespaceSensitivity": "css",
+  "jsxSingleQuote": true
 }
